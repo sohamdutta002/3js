@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.draw{
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
